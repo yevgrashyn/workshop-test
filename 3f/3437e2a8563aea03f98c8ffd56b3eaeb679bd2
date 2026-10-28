@@ -1,0 +1,27 @@
+.gitignore
+  s_2a26c80cb51460::t_3f20413d1d1558 1-8
+.cursor/skills/README.md
+  s_2a26c80cb51460::t_3b643d3ab234bb 1-13
+README.md
+  s_2a26c80cb51460::t_fc4f3e939d2300 1-44
+templates/skill/SKILL.md
+  s_2a26c80cb51460::t_7754deaf8cd17f 1-36
+scripts/install-skill.sh
+  s_2a26c80cb51460::t_91969308fbb198 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3f3437e2a8563aea03f98c8ffd56b3eaeb679bd2",
+  "prompts": {},
+  "sessions": {
+    "s_2a26c80cb51460": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d0122c19-3453-48e9-8b63-e586328929d7",
+        "model": "default"
+      },
+      "human_author": "Tim Yevgrashyn <3612013+yevgrashyn@users.noreply.github.com>"
+    }
+  }
+}
